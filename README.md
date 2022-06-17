@@ -1,5 +1,5 @@
 <h1 align="center">🌎 Hello, World! I'm Kauê Fernandes Braz!</h1>
-<h3 align="center">I am a IT student and I love learning new things.</h3>
+<h3 align="center">I am a IT student and I love to learn new things.</h3>
 
 
 <h2 align="left">Skills</h2>
