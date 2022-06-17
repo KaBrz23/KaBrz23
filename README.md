@@ -14,7 +14,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a> <!--   -->
 </p>
 
-<h2 align="left">See more / connect with me!</h2>
+<h2 align="left">Contact</h2>
 <p align="left">
 <a href="https://linkedin.com/in/kauefernandesbraz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kauefernandesbraz" height="40" width="40" /></a> <!-- -->
 
