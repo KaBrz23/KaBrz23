@@ -2,12 +2,20 @@
 <h3 align="center">I am a IT student and I love learning new things.</h3>
 
 
-<h2 align="left">Main skills</h2>
+<h2 align="left">Skills</h2>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_73/94_amazon-web-services-icon.8cfc0dbbf2.svg" alt="aws" width="60" height="60"/> </a> <!--   -->
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_97/45_terraform-icon.0fedccc574.svg" alt="vagrant" width="60" height="60"/> </a> <!--   --> 
+</p>
+
 
 <h2 align="left">Currently learning</h2>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <!--   -->
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a> <!--   -->
+</p>
 
 <h2 align="left">See more / connect with me!</h2>
+<p align="left">
+<a href="https://linkedin.com/in/kauefernandesbraz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kauefernandesbraz" height="40" width="40" /></a> <!-- -->
 
 
