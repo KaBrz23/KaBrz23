@@ -1,10 +1,11 @@
-### Olá! Meu nome é Kauê Fernandes Braz
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/kauefbraz_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kau%C3%AA-fernandes-braz-1492b520a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+<h1 align="center">🌎 Hello, World! I'm Kauê Fernandes Braz!</h1>
+<h3 align="center">I am a IT student and I love learning new things.</h3>
+
+
+<h2 align="left">Main skills</h2>
+
+<h2 align="left">Currently learning</h2>
+
+<h2 align="left">See more / connect with me!</h2>
+
 
