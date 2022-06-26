@@ -18,11 +18,7 @@
 <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="60" height="60"/> </a>
 </p>
 
-<div>
 <h2 align="left">Contact</h2>
 <p align="left">
 <a href="https://linkedin.com/in/kauefernandesbraz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kauefernandesbraz" height="40" width="40" /></a> <!-- -->
 </p>
-
-![Snake animation](https://github.com/KaBrz23/KaBrz23/blob/output/github-contribution-grid-snake.svg)
-</div>
