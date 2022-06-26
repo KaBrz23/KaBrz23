@@ -22,3 +22,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/kauefernandesbraz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kauefernandesbraz" height="40" width="40" /></a> <!-- -->
 
+![Snake animation](https://github.com/KaBrz23/KaBrz23/blob/output/github-contribution-grid-snake.svg)
