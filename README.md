@@ -6,6 +6,7 @@
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_73/94_amazon-web-services-icon.8cfc0dbbf2.svg" alt="aws" width="60" height="60"/> </a> <!--   -->
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_97/45_terraform-icon.0fedccc574.svg" alt="vagrant" width="60" height="60"/> </a> <!--   --> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <!--   -->
 </p>
 
 
