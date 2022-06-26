@@ -1,4 +1,4 @@
-<h1 align="center">🌎 Hello, World! I'm Kauê Fernandes Braz!</h1>
+<h1 align="center">I'm Kauê Fernandes Braz and this is my profile!</h1>
 <h3 align="center">I am a IT student and I love to learn new things.</h3>
 
 
@@ -12,7 +12,8 @@
 <h2 align="left">Currently learning</h2>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <!--   -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a> <!--   -->
-<a href="https://kubernetes.io/pt-br/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="60" height="60"/> </a> <!--   -->
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60"/> </a> <!--   -->
+<a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="60" height="60"/> </a>
 </p>
 
 <h2 align="left">Contact</h2>
