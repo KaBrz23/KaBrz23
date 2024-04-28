@@ -16,6 +16,11 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{KaBrz23}/count.svg" /></p> 
 <br></div>
 
-![snake gif](https://github.com/KaBrz23/KaBrz23/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaBrz23/KaBrz23/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaBrz23/KaBrz23/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KaBrz23/KaBrz23/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
