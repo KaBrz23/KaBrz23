@@ -15,5 +15,7 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{KaBrz23}/count.svg" /></p> 
 <br></div>
+
+![Snake animation](https://github.com/KaBrz23/KaBrz23/blob/output/github-contribution-grid-snake.svg)
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
